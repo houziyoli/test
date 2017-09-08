@@ -1,0 +1,6 @@
+{
+    "name": "houziyoli/test",
+    "description": "test composer",
+    "type": "library",
+    "require": {}
+}
