@@ -4,6 +4,8 @@
     "type": "library",
     "require": {},
     "autoload":{
-        "files": ["index.php"]
+        "psr-0": {
+            "test": "src/"
+        }
     }	
 }
